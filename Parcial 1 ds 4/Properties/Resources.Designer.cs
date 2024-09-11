@@ -63,9 +63,49 @@ namespace Parcial_1_ds_4.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap astro {
+            get {
+                object obj = ResourceManager.GetObject("astro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Circulo_morado {
             get {
                 object obj = ResourceManager.GetObject("Circulo morado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Estrellas {
+            get {
+                object obj = ResourceManager.GetObject("Estrellas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap walterimage_linkr {
+            get {
+                object obj = ResourceManager.GetObject("walterimage_linkr", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WalterM {
+            get {
+                object obj = ResourceManager.GetObject("WalterM", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
