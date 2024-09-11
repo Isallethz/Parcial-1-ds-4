@@ -93,6 +93,16 @@ namespace Parcial_1_ds_4.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap piramide {
+            get {
+                object obj = ResourceManager.GetObject("piramide", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap walterimage_linkr {
             get {
                 object obj = ResourceManager.GetObject("walterimage_linkr", resourceCulture);

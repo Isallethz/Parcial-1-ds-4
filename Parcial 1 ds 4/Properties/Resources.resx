@@ -124,16 +124,19 @@
   <data name="astro" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\astro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="WalterM" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WalterM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="walterimage_linkr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\walterimage_linkr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Estrellas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Estrellas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="walterrr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\walterrr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Estrellas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Estrellas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="WalterM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WalterM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="piramide" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\piramide.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

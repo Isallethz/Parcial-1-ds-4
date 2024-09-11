@@ -66,6 +66,7 @@
             tbNombre.TabIndex = 1;
             tbNombre.Tag = "tbNombre";
             tTInfo.SetToolTip(tbNombre, "Ingrese su nombre");
+            tbNombre.TextChanged += tbNombre_TextChanged;
             // 
             // cbSexo
             // 
@@ -133,6 +134,7 @@
             btCalcular.Tag = "btCalcular";
             btCalcular.Text = "Calcular";
             btCalcular.UseVisualStyleBackColor = false;
+            btCalcular.Click += btCalcular_Click;
             // 
             // lbTitulo
             // 
